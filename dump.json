@@ -96,16 +96,6 @@
       "weather": "Солнечно",
       "air_temp": 27,
       "track_temp": 32
-    },
-    {
-      "id": "426173aa-1a59-4717-96bd-a70cea3e2618",
-      "name": "Тест1",
-      "track_id": "300030b6-3dca-4169-923c-cc54e925d80d",
-      "vehicle_id": "4d043da8-0db5-4a07-bcee-8dae34098587",
-      "date": "2026-06-18T10:28:00Z",
-      "weather": "Тест1",
-      "air_temp": 0,
-      "track_temp": 0
     }
   ],
   "laps": [
