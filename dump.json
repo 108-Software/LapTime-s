@@ -48,16 +48,6 @@
   ],
   "sessions": [
     {
-      "id": "ec654a47-7c50-4646-b7a0-3f37bcae1807",
-      "name": "Тест1",
-      "track_id": "300030b6-3dca-4169-923c-cc54e925d80d",
-      "vehicle_id": "4d043da8-0db5-4a07-bcee-8dae34098587",
-      "date": "2026-06-18T10:59:00Z",
-      "weather": "Тест1",
-      "air_temp": 0,
-      "track_temp": 0
-    },
-    {
       "id": "0dd83b83-0d26-4a99-9527-70bd7e9dd92d",
       "name": "Прокатная сессия",
       "track_id": "72dccac1-45c4-4944-b99b-a05aa4436aa9",
