@@ -52,7 +52,7 @@
       "name": "Прокатная сессия",
       "track_id": "72dccac1-45c4-4944-b99b-a05aa4436aa9",
       "vehicle_id": "81d4e9e9-e432-4311-a1f5-744112505209",
-      "date": "2026-05-16T18:00:00+03:00",
+      "date": "2026-05-16T15:00:00Z",
       "weather": "",
       "air_temp": 0,
       "track_temp": 0
@@ -62,7 +62,7 @@
       "name": "Прокатная сессия 2",
       "track_id": "72dccac1-45c4-4944-b99b-a05aa4436aa9",
       "vehicle_id": "81d4e9e9-e432-4311-a1f5-744112505209",
-      "date": "2026-05-23T18:00:00+03:00",
+      "date": "2026-05-23T15:00:00Z",
       "weather": "",
       "air_temp": 0,
       "track_temp": 0
@@ -72,7 +72,7 @@
       "name": "Прокатная сессия 3",
       "track_id": "72dccac1-45c4-4944-b99b-a05aa4436aa9",
       "vehicle_id": "81d4e9e9-e432-4311-a1f5-744112505209",
-      "date": "2026-05-23T18:30:00+03:00",
+      "date": "2026-05-23T15:30:00Z",
       "weather": "",
       "air_temp": 0,
       "track_temp": 0
@@ -82,7 +82,7 @@
       "name": "Прокатная сессия 4",
       "track_id": "72dccac1-45c4-4944-b99b-a05aa4436aa9",
       "vehicle_id": "81d4e9e9-e432-4311-a1f5-744112505209",
-      "date": "2026-06-14T16:15:00+03:00",
+      "date": "2026-06-14T13:15:00Z",
       "weather": "",
       "air_temp": 0,
       "track_temp": 0
@@ -92,10 +92,20 @@
       "name": "Прокатная сессия",
       "track_id": "300030b6-3dca-4169-923c-cc54e925d80d",
       "vehicle_id": "4d043da8-0db5-4a07-bcee-8dae34098587",
-      "date": "2026-06-07T18:15:00+03:00",
+      "date": "2026-06-07T15:15:00Z",
       "weather": "Солнечно",
       "air_temp": 27,
       "track_temp": 32
+    },
+    {
+      "id": "12df1584-be13-4995-b743-67c5db5a64d4",
+      "name": "Тест1",
+      "track_id": "300030b6-3dca-4169-923c-cc54e925d80d",
+      "vehicle_id": "4d043da8-0db5-4a07-bcee-8dae34098587",
+      "date": "2026-06-18T09:48:00Z",
+      "weather": "Тест1",
+      "air_temp": 0,
+      "track_temp": 0
     }
   ],
   "laps": [
