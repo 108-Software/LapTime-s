@@ -104,16 +104,6 @@
       "weather": "Солнечно",
       "air_temp": 27,
       "track_temp": 32
-    },
-    {
-      "id": "6e28f004-424f-4e8d-940f-2c5b75b56684",
-      "name": "Тестовая сессия 1",
-      "track_id": "22e1195e-c65d-4232-bb75-0efa6dd228cd",
-      "vehicle_id": "bff71099-cd08-426c-9bf9-5c15dde5ae69",
-      "date": "2026-06-22T04:27:00Z",
-      "weather": "Ясно",
-      "air_temp": 0,
-      "track_temp": 0
     }
   ],
   "laps": [
