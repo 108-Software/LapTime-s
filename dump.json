@@ -118,17 +118,6 @@
   ],
   "laps": [
     {
-      "id": "d6b90269-2086-4000-a56c-86a944eeea6a",
-      "session_id": "6e28f004-424f-4e8d-940f-2c5b75b56684",
-      "lap_number": 1,
-      "lap_time_ms": 120000,
-      "sector1_ms": null,
-      "sector2_ms": null,
-      "sector3_ms": null,
-      "top_speed": null,
-      "valid": true
-    },
-    {
       "id": "be4d2a3f-7fd7-453d-b03e-fa588c8f97fd",
       "session_id": "0dd83b83-0d26-4a99-9527-70bd7e9dd92d",
       "lap_number": 1,
