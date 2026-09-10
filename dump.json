@@ -823,6 +823,17 @@
       "order": 0,
       "created_at": "2026-09-10T08:57:53.215482Z",
       "updated_at": "2026-09-10T08:57:53.215482Z"
+    },
+    {
+      "id": "9bfc3fb3-0ed2-42e0-bd24-a29de1dc7cf3",
+      "title": "VDES ACC Academy S10 занятие 1 траектории",
+      "description": "",
+      "category": "Без категории",
+      "file_name": "VDES ACC Academy S10 занятие 1 траектории.mp4",
+      "duration": 0,
+      "order": 0,
+      "created_at": "2026-09-10T09:35:18.222012Z",
+      "updated_at": "2026-09-10T09:35:18.222012Z"
     }
   ]
 }
