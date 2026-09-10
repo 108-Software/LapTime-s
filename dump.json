@@ -778,5 +778,18 @@
       "top_speed": null,
       "valid": true
     }
+  ],
+  "lectures": [
+    {
+      "id": "a7eff312-141d-497d-9e6f-67575df16397",
+      "title": "Основы гоночной траектории",
+      "description": "Правильная траектория",
+      "category": "Траектория",
+      "file_name": "VDES ACC Academy S10 занятие 2 траектории.mp4",
+      "duration": 0,
+      "order": 1,
+      "created_at": "2026-09-10T08:52:53.652675Z",
+      "updated_at": "2026-09-10T08:52:53.652675Z"
+    }
   ]
 }
