@@ -837,6 +837,17 @@
       "sector3_ms": null,
       "top_speed": null,
       "valid": true
+    },
+    {
+      "id": "b2021655-9305-4cef-9c2a-7c890347b383",
+      "session_id": "2f41ab98-5c65-41d5-a580-05a6622a1d70",
+      "lap_number": 1,
+      "lap_time_ms": 45637,
+      "sector1_ms": null,
+      "sector2_ms": null,
+      "sector3_ms": null,
+      "top_speed": null,
+      "valid": true
     }
   ],
   "lectures": [
